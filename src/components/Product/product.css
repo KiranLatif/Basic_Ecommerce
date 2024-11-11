@@ -1,0 +1,22 @@
+.productWrapper{
+    box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+    width: 100%;
+}
+.imgWrapper{
+height: 300px;
+cursor: pointer;
+}
+.imgWrapper img{
+width: 100%;
+height: 100%;
+object-fit: cover;
+}
+.productWrapper p{
+    font-size: 18px;
+    margin-top: 8px;
+}
+.productWrapper button{
+    width: 100%;
+    padding: 8px;
+    margin-top: 14px;
+}
